@@ -9,6 +9,7 @@ using namespace std;
 // this is product class by which we store all the products avilabe on the store
 class Product
 {
+    
 public:
     string id, name;
     float price;
